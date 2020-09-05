@@ -1,0 +1,119 @@
+#title{
+  background-color: #900c3f;
+}
+@media (max-width:990px)  {
+  #title{
+    text-align: center;
+  }
+}
+.dp{
+  margin-left: 60px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #fff;
+}
+span{
+  margin-bottom: 30px;
+}
+.jo{
+  color:grey;
+}
+em{
+  color: #fff;
+}
+.hehe{
+  font-family: 'Monoton', cursive;
+}
+.huhu{
+  font-family: 'Monoton', cursive;
+  font-family: 'Montez', cursive;
+  font-size: 70px;
+  line-height: 1.5;
+  color:#fff;
+  margin-left: 10px;
+  margin-top: 100px;
+}
+
+.ap{
+  margin-left: 40px;
+  margin-right: 10px;
+}
+.fas{
+  color:#e7305b;
+  padding-top: 60px;
+}
+.fas:hover{
+  color:#c70039;
+}
+.fet{
+  text-align: center;
+  padding: 5%;
+}
+#features{
+  padding-bottom: 30px;
+}
+#testimonials{
+  background-color:  #900c3f;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+#press{
+  background-color: #900c3f;
+  text-align: center;
+  padding-bottom: 60px;
+  padding-top: 90px;
+}
+.card-img-top{
+padding:60px;
+height:350px;
+}
+.mm{
+  margin-top: 50px;
+}
+#pricing{
+  padding:100px 100px;
+  text-align: center;
+}
+@media(max-width:1120px)and (min-width:767px){
+  #pricing{
+    padding:50px;
+  }
+}
+.lrr{
+  height: 400px;
+}
+.ll{
+  text-align: center;
+  padding: 70px 100px 50px 100px;
+  color: #fff;
+  line-height: 1.5em;
+  font-weight: lighter;
+
+}
+.joj{
+  width:150px;
+}
+.imk{
+  border-radius: 50%;
+  width: 100px;
+}
+#cta{
+  background-color:#900c3f;
+  text-align: center;
+  color: #fff;
+  padding: 5% 15%;
+}
+.maau{
+  padding:6% 6%;
+}
+#footer{
+  text-align: center;
+  padding-top: 6%;
+  padding-bottom: 2%;
+}
